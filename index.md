@@ -19,6 +19,7 @@ The emotional corpus on Mandarin include six categories (angry, fear, disgust, h
 
 ## English Audiobook dataset
 The second dataset is open-source English audiobook data. The books are read by the 2013 Blizzard Challenge speaker, Catherine Byers.
+
 | Text | GT | MRTTS | Proposed |
 | :---- | :---- | :---- | :---- | :---- |
 | But when it came to breaking in, that was a bad time for me. | <audio controls><source src="./wavs/gt/6.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="./wavs/baseline/6.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="./wavs/proposed/6.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
